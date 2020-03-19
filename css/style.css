@@ -582,6 +582,7 @@ form{
   position: relative;
   transition: background .2s ease-out;
   width: 18px;
+	text-indent: -5000px;
 }
 
 .header .menu-icon .navicon:before,
